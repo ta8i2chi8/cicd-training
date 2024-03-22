@@ -6,5 +6,6 @@
 
 ![cicd drawio](https://github.com/ta8i2chi8/sample-app-for-cicd/assets/66934929/f44f56c5-a743-4e42-9beb-5d2747c293c1)
 
-参考
+
+### 以下を参考に実装
 https://techblog.zozo.com/entry/measure-argocd-introduction
